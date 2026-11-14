@@ -1,0 +1,8 @@
+{
+  "name": "Starlight DJ Tool - Hercules Live Button & LED Tester",
+  "description": "Real-time MIDI button press monitor, LED light tester, and underglow show tester for Hercules DJControl Starlight. Optimized for Linux and Samsung Galaxy A16 via USB-OTG with Shizuku support and APK conversion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
